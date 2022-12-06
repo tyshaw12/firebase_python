@@ -10,9 +10,7 @@ Example: If you want to insert something with the collection of 'A01' it would b
 
 I wrote this software so I could learn more about Cloud Databases and how to CRUD in them. I am very familiar with SQL databases and use Snowflake at work but had never worked on a 'traditional' Cloud Database so I decided to learn it.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running, a walkthrough of the code, and a view of the cloud database.}
-
-[Python Firebase](https://youtu.be/4jLoNMC-tiY)
+[Python Firebase Demo](https://youtu.be/4jLoNMC-tiY)
 
 # Cloud Database
 
