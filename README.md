@@ -20,9 +20,10 @@ The structure of my database is very simple. It is a main collection called 'pro
 
 # Development Environment
 
-I used VScode code editor with Python 3.10.x to develop this software. 
+VScode code editor with Python 3.10.x 
 
-I used Python programming language as I am most familiar with it and the library that I used was firebase_admin. To install this yourself use 'pip install firebase_admin'.
+Language: Python
+Libraries: firebase_admin, pip install firebase_admin
 
 # Useful Websites
 
