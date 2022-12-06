@@ -27,13 +27,11 @@ Libraries: firebase_admin, pip install firebase_admin
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Google Firebase Documentation](https://firebase.google.com/docs/reference/admin/python)
 * [Analytics Vidhya](https://www.analyticsvidhya.com/blog/2022/07/introduction-to-google-firebase-firestore-using-python/?)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 * I want to modify the program to use games instead of programmer details.
 * I want to connect it to a website so things are only being edited through the terminal of the code editor or IDE.
 * I need to Make the editing at a bit higher level so it isn't required to be hard-coded in what you want to modify. Ex. call the database for things to edit. Not have to hard-code 'name', or 'country'.
